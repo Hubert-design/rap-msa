@@ -1,0 +1,12 @@
+Vertical_Name,ICS_Top3_Share,DIS_PC_Search,CPC_Diff_PC_vs_Mobile,Desktop Level,Intent Level,Archetype
+Apparel,"89,9",NA,#VALUE!,High Desktop,High Concentration,High-Consideration Desktop
+Automotive,"82,1",78,"0,18",High Desktop,High Concentration,High-Consideration Desktop
+Computers & Consumer Electronics,100,85,"0,26",High Desktop,High Concentration,High-Consideration Desktop
+Media & Publications,"65,6",67,"0,18",Lower Desktop,Medium Concentration,Distributed Demand
+Travel & Tourism,"65,2",81,"0,49",High Desktop,Medium Concentration,Distributed Demand
+Beauty & Personal Care,"46,9",NA,#VALUE!,High Desktop,Low Concentration,Distributed Demand
+Finance,"67,1",82,"0,83",High Desktop,Medium Concentration,Distributed Demand
+Home & Garden,"59,9",66,"0,27",Lower Desktop,Low Concentration,Distributed Demand
+Arts & Entertainment,"71,8",75,"0,15",Medium Desktop,Medium Concentration,Distributed Demand
+Business & Industrial,"62,6",80,"0,35",High Desktop,Medium Concentration,Distributed Demand
+Hobbies & Leisure,"75,2",77,"0,16",Medium Desktop,High Concentration,Consumer Cluster

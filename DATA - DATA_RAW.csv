@@ -1,0 +1,44 @@
+Vertical_Name,Data_Start_Date,Data_End_Date,Countries_Covered,"PC_Search_Share
+[%]","Mobile_Search_Share
+[%]","Tablet_Search_Share
+[%]","PC_Click_Share
+[%]","Mobile_Click_Share
+[%]","Tablet_Click_Share
+[%]","CTR_PC
+[%]","CTR_Mobile
+[%]","CTR_Tablet
+[%]","CPC_PC
+[$]","CPC_Mobile
+[$]","CPC_Tablet
+[$]","CTR_YoY
+[%]","CPC_YoY
+[%]","CTR_Peak_Week_Value
+[%]",CTR_Peak_Week_Date,"CPC_Peak_Week_Value
+[$]",CPC_Peak_Week_Date,Top1_Subcategory_Name,"Top1_Subcategory_Share
+[%]",Top2_Subcategory_Name,"Top2_Subcategory_Share
+[%]",Top3_Subcategory_Name,"Top3_Subcategory_Share
+[%]",Notes,"Searches YoY
+[%]","Searches_peek_week_value
+[%]",Searches_peek_week_date,"Clicks YoY
+[%]","Clicks_peek_week_value
+[%]",Clicks_peek_week_date
+Apparel,01.02.2025,31.01.2026,EU countries selection,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"2,49",NA,22.11.2025,NA,NA,Clothing,"61,6",Footwear,"17,9",Jewelry,"10,4",NA,-10,"2,71",22.11.2025,1,"3,06",22.11.2025
+Automotive,01.02.2025,31.01.2026,EU countries selection,78,21,1,78,20,2,"2,68","4,03","2,65","0,41","0,23","0,33",2,-1,"3,23",26.07.2025,"0,41",29.11.2025,Motor Vehicles,"42,1",Vehicle Parts & Accessories,"32,1",Vehicle Dealers,"7,9",NA,-25,"2,41",01.02.2025,-6,"2,1",08.03.2025
+Media & Publications,01.02.2025,31.01.2026,EU countries selection,67,31,2,80,18,2,"1,98","2,48","1,88","0,39","0,21","0,28",NA,NA,NA,NA,NA,NA,Reference Materials & Resources,"28,1",Men's Interests Media & Publications,"26,1",Books & Literature,"11,4",NA,48,"2,38",10.01.2026,24,"2,67",22.11.2025
+Travel & Tourism,01.02.2025,31.01.2026,EU countries selection,81,18,1,77,21,2,"4,28","7,13","5,58","0,81","0,32","0,57",-11,17,"5,48",12.07.2025,"0,84",10.01.2026,Tourist Attractions & Destinations,"32,1",Accommodations,"19,4",Transportation & Excursions,"13,7",NA,8,"2,16",26.07.2025,0,"2,36",19.07.2025
+Beauty & Personal Care,01.02.2025,31.01.2026,EU countries selection,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,-1,"2,68",22.11.2025,"0,5",29.11.2025,Hair Care,"18,1",Skin Care,"15,7",Perfumes & Fragrances,"13,1",NA,NA,NA,NA,NA,NA,NA
+Computers & Consumer Electronics,01.02.2025,31.01.2026,EU countries selection,85,14,1,85,14,1,"2,97","2,71","2,37","0,58","0,32","0,35",3,2,"3,17",26.07.2025,NA,NA,Computers,"89,3",Consumer Electronics,"10,7",NA,NA,NA,1,"2,23",22.11.2025,17,"2,6",22.11.2025
+Finance,01.02.2025,31.01.2026,EU countries selection,82,17,1,73,26,1,"4,49","6,34","5,19","1,46","0,63","1,18",-15,NA,"5,67",26.07.2025,NA,NA,Banking,"25,6",Investing,"24,5",Accounting & Auditing,17,NA,-7,NA,NA,0,"2,12",26.07.2025
+Home & Garden,01.02.2025,31.01.2026,EU countries selection,66,33,1,71,26,3,"2,16","1,47","2,16","0,53","0,26","0,35",-11,-4,"2,09",12.07.2025,"0,51",29.11.2025,Home Furniture,"29,8",Kitchen & Dining,"15,5",Home Appliances,"14,6",NA,11,"2,41",22.11.2025,18,"2,74",22.11.2025
+Arts & Entertainment,01.02.2025,31.01.2026,EU countries selection,75,23,2,81,17,2,"2,13","2,06","1,43","0,34","0,19","0,21",NA,NA,"2,42",05.07.2025,"0,34",26.04.2025,Music & Audio,"29,1",Movies & Films,"26,4",Entertainment Industry,"16,3",NA,NA,NA,NA,NA,NA,NA
+Business & Industrial,01.02.2025,31.01.2026,EU countries selection,80,19,1,78,20,1,"2,23","2,51","2,29","0,66","0,31","0,4",NA,9,"2,6",26.07.2025,NA,NA,Building Construction & Maintenance,"29,1",Industrial Goods & Manufacturing,20,Business Management,"13,5",NA,NA,"2,15",17.05.2025,2,NA,NA
+Hobbies & Leisure,01.02.2025,31.01.2026,EU countries selection,77,21,2,77,21,3,"1,91",2,"1,59","0,4","0,24","0,28",1,-17,"2,13",26.07.2025,"0,41",21.06.2025,Toys & Games,"55,5",Pets & Animals,"10,3",Cooking,"9,4",,10,"2,27",22.11.2025,10,"2,68",22.11.2025
+,,,AVG,"76,78","21,89","1,33","77,78","20,33","1,89","2,76","3,41","2,79","0,62","0,30","0,44","-4,29","0,94",-,-,-,-,-,-,-,-,-,-,-,"4,50",-,-,"7,33",-,-
+,,,ODCHYLENIE standardowe,"6,51","6,31","0,50","4,15","3,91","0,78","0,98","2,02","1,52","0,35","0,13","0,30","7,67","9,86",,,,,,,,,,,,"21,39",,,"10,28",,
+,,,MEDIANA,78,21,1,78,20,2,"2,23","2,51","2,29","0,53","0,26","0,35",1,"0,5",,,,,,,,,,,,"4,5",,,2,,
+,,,RANGE,19,19,1,14,12,2,"2,58","5,66","4,15","1,12","0,44","0,97",18,34,,,,,,,,,,,,73,,,30,,
+,,,Kwartyl 1,75,18,1,77,18,1,"2,13","2,06","1,88","0,4","0,23","0,28",-11,"-1,75",,,,,,,,,,,,"-7,75",,,0,,
+,,,Kwartyl 3,81,23,2,80,21,2,"2,97","4,03","2,65","0,66","0,32","0,4","1,5","4,1175",,,,,,,,,,,,"10,25",,,17,,
+,,,Asymetria,0,"-0,2","1,0","0,3","-0,3","-1,0","0,8","0,5","-0,1","0,0","0,3","-0,2","-0,9","0,2",,,,,,,,,,,,"-0,4",,,"0,8",,
+,,,Odchylenie ćwiartkowe,"3,00","2,50","0,50","1,50","1,50","0,50","0,42","0,99","0,39","0,13","0,05","0,06","6,25","2,93",,,,,,,,,,,,"9,00",,,"8,50",,
+,,,Współczynnik zmienności,"3,85%","11,90%","50,00%","1,92%","7,50%","25,00%","18,83%","39,24%","16,81%","24,53%","17,31%","17,14%","625,00%","586,75%",,,,,,,,,,,,"200,00%",,,"425,00%",,

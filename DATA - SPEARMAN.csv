@@ -1,0 +1,43 @@
+Vertical_Name,"Searches YoY
+[%]",Ranga
+Automotive,-25,1
+Apparel,-10,2
+Finance,-7,3
+Computers & Consumer Electronics,1,4
+Travel & Tourism,8,5
+Hobbies & Leisure,10,6
+Home & Garden,11,7
+Media & Publications,48,8
+Beauty & Personal Care,NA,
+Arts & Entertainment,NA,
+Business & Industrial,NA,
+,,
+Vertical_Name,"Clicks YoY
+[%]",
+Automotive,-6,1
+Travel & Tourism,0,2
+Finance,0,3
+Apparel,1,4
+Hobbies & Leisure,10,5
+Computers & Consumer Electronics,17,6
+Home & Garden,18,7
+Media & Publications,24,8
+Beauty & Personal Care,NA,
+Arts & Entertainment,NA,
+Business & Industrial,2,
+,,
+Vertical_Name,Różnica rang,Kwadrat
+Apparel,-2,4
+Automotive,0,0
+Media & Publications,0,0
+Travel & Tourism,3,9
+Beauty & Personal Care,,
+Computers & Consumer Electronics,-2,4
+Finance,0,0
+Home & Garden,0,0
+Arts & Entertainment,,
+Business & Industrial,,
+Hobbies & Leisure,1,1
+,,
+Korelacja Searches YoY vs Clicks YoY,"0,8",oznacza związek korelacyjny dodatni – uporządkowania są zgodne (wyższe pozycje w zmiennej X odpowiadają wyższym pozycjom w zmiennej Y)
+,,"(0,8 – 1,0) – zależność bardzo silna"
