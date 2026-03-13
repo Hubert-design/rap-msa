@@ -1,0 +1,417 @@
+Hubert — poniżej masz **przeprojektowanie raportu** tak, żeby był bliżej standardu **market intelligence / strategy report**, a nie zlepki wykresów z verticali.
+
+# 2. Główna narracja raportu
+
+Proponuję taką oś:
+
+> **Microsoft Advertising w Europie nie jest po prostu alternatywnym inventory searchowym. To ekosystem o własnej strukturze popytu, własnej ekonomii kliknięcia i wyraźnie różniących się archetypach verticali.**
+> 
+
+To jest lepsze niż „MSA jest desktopowe”, bo:
+
+- jest prawdziwsze,
+- jest mniej banalne,
+- daje miejsce na device, koncentrację, dynamikę i koszty.
+
+---
+
+# 3. Finalne pytanie badawcze
+
+> **Jak wygląda struktura popytu, kosztów i koncentracji w Microsoft Advertising w Europie oraz jakie typy rynków wyłaniają się z analizy verticali?**
+> 
+
+To jest pytanie raportowe.
+
+---
+
+# 4. 5 głównych tez raportu
+
+## Teza 1
+
+**MSA ma odrębny profil urządzeniowy, z silną dominacją desktopu, ale skala tej dominacji różni się między verticalami.**
+
+## Teza 2
+
+**Popyt w wielu verticalach jest silnie skoncentrowany wokół kilku głównych subkategorii, co sugeruje istnienie wyraźnych klastrów intencji.**
+
+## Teza 3
+
+**Nie wszystkie verticale rozwijają się w tym samym tempie — dynamika kliknięć i wyszukiwań jest silnie zróżnicowana.**
+
+## Teza 4
+
+**Ekonomia kliknięcia różni się istotnie między verticalami, co sugeruje odmienną intensywność konkurencji reklamowej.**
+
+## Teza 5
+
+**Na rynku MSA w Europie da się wyróżnić kilka powtarzalnych archetypów verticali, które wymagają różnych interpretacji strategicznych.**
+
+To wystarczy. Nie dokładaj więcej.
+
+---
+
+# 5. Struktura raportu — wersja „consulting style”
+
+## 0. Cover + subtitle
+
+Tytuł raportu
+
+Podtytuł: np.
+
+**Structural Market Intelligence on Microsoft Advertising in Europe**
+
+---
+
+## 1. Executive Summary (4–5 slajdów)
+
+Cel: dać decydentowi cały raport w 2 minuty.
+
+### Slajd 1
+
+**What this report answers**
+
+- 3 pytania raportu
+- zakres danych
+- liczba verticali / region
+
+### Slajd 2
+
+**5 key findings**
+
+- bardzo krótko, 1 zdanie per finding
+
+### Slajd 3
+
+**The market map**
+
+- jedna mapa 2×2 albo główny wykres zbiorczy
+
+### Slajd 4
+
+**What it means for advertisers**
+
+- 3 implikacje strategiczne
+
+---
+
+## 2. Methodology & scope (2–3 slajdy)
+
+Tu budujesz wiarygodność.
+
+### Zawartość
+
+- źródło danych
+- zakres czasowy
+- liczba verticali
+- definicje wskaźników
+- ograniczenia:
+    - brak konwersji
+    - brak danych performance końcowego
+    - analiza strukturalna, nie atrybucyjna
+
+To jest miejsce na wykorzystanie metodologii z NotebookLM.
+
+---
+
+## 3. The structural profile of Microsoft Advertising (4–5 slajdów)
+
+To sekcja o **tym, jak ten ekosystem wygląda jako rynek**.
+
+### Wykresy
+
+1. **PC Search Share by vertical**
+2. **PC Click Share vs PC Search Share**
+3. **Range / median / quartiles for device structure**
+
+### Co ma wyjść
+
+- desktop jest ważny
+- ale nie jednakowy we wszystkich verticalach
+- device structure to cecha rynku, nie ciekawostka
+
+---
+
+## 4. Demand concentration and market structure (4–5 slajdów)
+
+Tu pokazujesz, **jak rozłożony jest popyt**.
+
+### Wykresy
+
+1. **ICS_Top3_Share ranking**
+2. **Top concentrated vs most fragmented verticals**
+3. **Scatter: concentration vs dynamics**
+
+### Co ma wyjść
+
+- niektóre verticale są „tight markets”
+- inne są bardziej rozproszone
+- koncentracja może sugerować inne warunki wejścia i konkurencji
+
+---
+
+## 5. Demand dynamics: where the market is moving (4–5 slajdów)
+
+To jedna z ważniejszych sekcji.
+
+### Wykresy
+
+1. **Clicks YoY ranking**
+2. **Searches YoY ranking** (tam gdzie dane są)
+3. **Demand momentum classification**
+4. **Search vs Click dynamics comparison**
+
+### Co ma wyjść
+
+- nie wszystkie verticale rosną
+- wzrost zainteresowania ≠ wzrost kliknięć
+- są verticale momentum i verticale dojrzałe
+
+---
+
+## 6. Cost structure and advertising economics (4–5 slajdów)
+
+Tu pokazujesz ekonomię aukcji, ale bez przesady.
+
+### Wykresy
+
+1. **CPC_PC ranking**
+2. **CPC_Mobile ranking**
+3. **CPC YoY distribution**
+4. **Desktop vs mobile CPC comparison**
+
+### Co ma wyjść
+
+- gdzie reklama jest najdroższa
+- gdzie koszty rosną / spadają
+- gdzie struktura kosztowa jest stabilna
+
+Nie mów tu o „efektywności” bez konwersji.
+
+---
+
+## 7. Cross-variable relationships (3–4 slajdy)
+
+To sekcja najbardziej „consultingowa”.
+
+### Wykresy / analizy
+
+1. **Searches YoY vs Clicks YoY**
+2. **ICS_Top3_Share vs CPC**
+3. **PC share vs CTR**
+4. **PC share vs CPC** (ostrożnie interpretować)
+
+### Cel
+
+Nie chodzi o udowodnienie przyczynowości.
+
+Chodzi o pokazanie:
+
+- które relacje są sensowne,
+- gdzie są napięcia,
+- gdzie są wyjątki.
+
+---
+
+## 8. Vertical archetypes (4 slajdy)
+
+To sekcja, która robi z raportu coś więcej niż benchmark.
+
+### Slajd 1
+
+**Market archetypes map**
+
+- jedna macierz:
+    - X = concentration
+    - Y = dynamics
+
+### Slajd 2–4
+
+Po jednym slajdzie na archetyp:
+
+- **Mature concentrated markets**
+- **Emerging / expanding markets**
+- **Fragmented opportunity markets**
+- ewentualnie **Desktop-dominant value markets**
+
+Każdy slajd:
+
+- definicja archetypu
+- verticale
+- charakterystyka
+- 2–3 liczby
+
+---
+
+## 9. Strategic implications (2–3 slajdy)
+
+Tu kończysz raport z poziomu decydenta.
+
+### Slajd 1
+
+**What advertisers should understand about MSA**
+
+- 3–4 główne implikacje
+
+### Slajd 2
+
+**How MSA should be read strategically**
+
+np.:
+
+- nie jako „drugie Google”
+- tylko jako rynek o odrębnej strukturze intencji
+
+### Slajd 3
+
+**What future editions should add**
+
+- conversions
+- country clusters
+- budget tiers
+- CEE vs Western Europe
+
+To od razu buduje serię raportów.
+
+---
+
+# 6. Jakie wykresy są naprawdę potrzebne
+
+Nie rób 25 wykresów. Wystarczy 8–10 mocnych.
+
+## Core charts
+
+1. PC Search Share by vertical
+2. PC Click Share vs PC Search Share
+3. ICS Top3 Share ranking
+4. Clicks YoY ranking
+5. Searches YoY ranking
+6. CPC_PC ranking
+7. CPC_YoY distribution
+8. Scatter: Concentration vs Demand Dynamics
+9. Scatter: Searches YoY vs Clicks YoY
+10. Archetypes map
+
+To już opowiada raport.
+
+---
+
+# 7. Jak pisać insighty w stylu „market intelligence”
+
+Każdy slajd powinien mieć:
+
+## 1. Tytuł-wniosek
+
+Nie „PC Search Share by vertical”, tylko:
+
+> **Desktop remains the dominant demand environment across Microsoft Advertising verticals**
+> 
+
+## 2. 1 krótki lead
+
+Jedno zdanie, co czytelnik ma zobaczyć.
+
+## 3. Wykres
+
+Bez przeładowania.
+
+## 4. 2–3 bullet insights
+
+Nie opis wykresu, tylko interpretacja.
+
+---
+
+# 8. Czego nie robić
+
+## Nie rób tego:
+
+- za dużo statystyki na slajdach
+- tłumaczenia każdego wskaźnika w body raportu
+- narracji „MSA jest premium desktopem”
+- zbyt dużej liczby hipotez
+- pseudo-performance interpretacji bez konwersji
+
+## Rób to:
+
+- pokazuj strukturę
+- pokazuj zróżnicowanie
+- pokazuj archetypy
+- pokazuj implikacje
+
+---
+
+# 9. Jak wykorzystać metodologię od NotebookLM
+
+To nie jest treść raportu.
+
+To jest **zaplecze wiarygodności**.
+
+W praktyce użyj jej do:
+
+### Methodology section
+
+- definicja mediany
+- range
+- kwartyle
+- podejście do małej próby
+- korelacja Spearmana / Pearsona tylko tam, gdzie ma sens
+
+### Appendix / technical note
+
+Nie wrzucaj za dużo tego do głównego raportu.
+
+---
+
+# 10. Rekomendowany workflow od teraz
+
+## Etap 1
+
+Domykasz finalny dataset i wskaźniki
+
+## Etap 2
+
+Wyciągasz:
+
+- mediany
+- zakresy
+- rankingi
+- korelacje
+- archetypy
+
+## Etap 3
+
+Budujesz **Evidence Pack**
+
+czyli per teza:
+
+- 2–3 liczby
+- 1 wykres
+- 1 interpretacja
+
+## Etap 4
+
+Projektujesz slajdy raportu
+
+---
+
+# 11. Moja rekomendacja strategiczna
+
+Nie próbuj, żeby Edycja 1 była „kompletna”.
+
+Niech będzie:
+
+> **clear, structured, defensible, insightful**
+> 
+
+To już wystarczy, żeby:
+
+- zbudować autorytet,
+- zrobić materiał konferencyjny,
+- zebrać feedback do edycji 2.
+
+---
+
+Kolejny sensowny krok to rozpisanie:
+
+**„Teza → dane → wskaźnik → wykres → insight → slajd”**
+
+dla całego raportu.
